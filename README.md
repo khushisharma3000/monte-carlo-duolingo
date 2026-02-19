@@ -11,3 +11,4 @@ This project uses Python to simulate 50 potential future price paths for **DUOL*
 
 ## Requirements
 `pip install numpy pandas yfinance matplotlib`
+<img width="1470" height="956" alt="Screenshot 2026-02-19 at 11 59 09 AM" src="https://github.com/user-attachments/assets/967d8c0b-61da-430a-a225-3889355ec2c1" />
